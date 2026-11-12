@@ -10,7 +10,7 @@ A hands-on learning repository for RabbitMQ, with practical examples in both Nod
 
 ## Roadmap
 
-- [ ] Stage 1: Fundamentals (queues, exchanges, producers, consumers)
+- [X] Stage 1: Fundamentals (queues, exchanges, producers, consumers)
 - [ ] Stage 2: Setup (Docker and Management UI)
 - [ ] Stage 3: Hello World (Node.js and Python)
 - [ ] Stage 4: Core patterns (work queues, acknowledgements, exchange types, pub/sub)
